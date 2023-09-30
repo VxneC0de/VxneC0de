@@ -7,4 +7,10 @@
 [![GitHub purple](https://img.shields.io/badge/GitHub-5D12D2)](https://github.com/VxneC0de)
 [![Instagram pink](https://img.shields.io/badge/Instragram-FF3FA4)](https://www.instagram.com/v_rc20/)
 
+## Sobre mi
+
+- ⭐ Github Star ⭐ 
+- 📲 Frontend developer
+- 📗 Lover of learning new technologies
+<br>
 
