@@ -8,13 +8,20 @@
 
 <h3 align="center">I love experimenting with new web design and development techniques and am always looking for ways to improve my skills.</h3>
 
-
-
-
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
 - 📲 Frontend developer
 - 📗 Lover of learning new technologies
+- 👨‍💻 All of my projects are available at [https://vxnec0de.github.io/portfolio-VxneC0de/](https://vxnec0de.github.io/portfolio-VxneC0de/)
+- 📫 How to reach me **vanerubio2020@gmail.com**
 <br>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/VxneC0de">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
