@@ -4,9 +4,7 @@
 <img src="https://i.ibb.co/VgYzk2f/vxnec0de.png)https://i.ibb.co/VgYzk2f/vxnec0de.png">
 
 
-<div align="center">
  [![Gitguh visit](https://img.shields.io/badge/Visits-120-FF3FA4)](https://github.com/VxneC0de)
-</div>
 
 <h3 align="center">I love experimenting with new web design and development techniques and am always looking for ways to improve my skills.</h3>
 
@@ -48,15 +46,6 @@
 <span><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase logo" title="Firebase" height="25"/></span>
 &nbsp;
 
-### <u> Version Control and Tools:</u>
-
-<br>
-
-<span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git logo" title="Git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" title="Github" height="25" /></span>
-&nbsp;
-
 ### <u> Operating Systems and Others:</u>
 
 <br>
@@ -81,7 +70,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Contact Me***
 
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/Cxr0l_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vxnec0de" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vanessa-rubio-7b7492293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vxnec0de" height="30" width="40" /></a>
 <a href="https://www.instagram.com/v_rc20/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vxnec0de" height="30" width="40" /></a>
