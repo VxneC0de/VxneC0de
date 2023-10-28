@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi! I'm <a href="#">VxneC0de</a> 👋</h1>
 </div>
-<img src="https://i.ibb.co/VgYzk2f/vxnec0de.png)https://i.ibb.co/VgYzk2f/vxnec0de.png">
+<img src="https://i.ibb.co/pPXn3fP/vxnec0de.png">
 
 
  [![Gitguh visit](https://img.shields.io/badge/Visits-120-FF3FA4)](https://github.com/VxneC0de)
